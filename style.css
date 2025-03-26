@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #1f2937;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+  margin-left: 150px;
+}
+
+.navbar {
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
+.navbar a {
+  color: white;
+  margin-right: 150px;
+  font-family: Roboto;
+}
+
+.hero_text {
+  margin-left: 150px;
+  color: white;
+  font-size: 48px;
+  font-weight: 900;
+  font-family: #f9faf8;
+  margin-top: 100px;
+}
+
+.hero_subtext {
+    margin-left: 150px;
+    color: white;
+    font-size: 18px;
+    font-family: #E5E7Eb;
+    
+}
+.halal_family {
+  margin-left: 150px;
+  display: inline;
+  width: 400px;
+  height: 300px;
+}
